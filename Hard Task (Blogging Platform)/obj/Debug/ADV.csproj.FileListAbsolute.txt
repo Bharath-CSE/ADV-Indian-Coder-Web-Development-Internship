@@ -1,0 +1,14 @@
+D:\Besant Technologies\ADV\ADV\bin\Debug\ADV.exe.config
+D:\Besant Technologies\ADV\ADV\bin\Debug\ADV.exe
+D:\Besant Technologies\ADV\ADV\bin\Debug\ADV.pdb
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.csprojResolveAssemblyReference.cache
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.Form1.resources
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.Properties.Resources.resources
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.csproj.GenerateResource.Cache
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.exe
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.pdb
+D:\Besant Technologies\ADV\ADV\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Besant Technologies\ADV\ADV\bin\Debug\Guna.UI2.dll
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.Login.resources
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.Register.resources
+D:\Besant Technologies\ADV\ADV\obj\Debug\ADV.Post.resources
